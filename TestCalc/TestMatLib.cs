@@ -70,8 +70,8 @@ namespace TestCalc
         {
             //given
             this.op1 = 8;
-            this.op2 = 2;
-            float expectedResult = 4;
+            this.op2 = 4;
+            float expectedResult = 2;
             float actualResult;
             
             //when
